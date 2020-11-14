@@ -20,7 +20,7 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 ## Logs: 
 
 
-### Day 1 (11/13/20): 
+### Day 1 (11/13/2020): 
 **Today's Progress**: 
 - Data Science
     - Week 2 R studio Tour
@@ -36,4 +36,12 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
     - *Since I finished the Part 1 and Part 2 already 3 years ago,  I think it would be good to continue finishing the remaining courses within the specialization.* 
 
 
-### Day 2 (TBA)
+### Day 2 (11/14/2020)
+**Today's Progress**: 
+- English (Write Professional Emails in English)
+    - Learn about proper formats in subject line
+    - Email Introduction, Text Body, and Conclusion
+    - Done with assignment
+- English (Speak English Professionally)
+    - Learned about elevator speech. Need to think of elevator speech for assignment. XD
+
