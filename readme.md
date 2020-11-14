@@ -46,4 +46,6 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
     - Learn about sentence stress and intonations.
     - Learned about elevator speech. ~~Need to think of elevator speech for assignment. XD~~ *(Alright it turns out I just need to write a speech instead of recording. I'm not prepared for that).*
     - Done with assignment for elevator speech. 
-
+- Data Engineering with Google Cloud
+    - Week 1: Create a vm instance and storage bucket
+        - Run sample script to fetch data from usgs earthquake data and save to bucket for viewing. 
