@@ -41,7 +41,9 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 - English (Write Professional Emails in English)
     - Learn about proper formats in subject line
     - Email Introduction, Text Body, and Conclusion
-    - Done with assignment
+    - Done with assignment in writing email with subject, introductionm and conclusion.
 - English (Speak English Professionally)
-    - Learned about elevator speech. Need to think of elevator speech for assignment. XD
+    - Learn about sentence stress and intonations.
+    - Learned about elevator speech. ~~Need to think of elevator speech for assignment. XD~~ *(Alright it turns out I just need to write a speech instead of recording. I'm not prepared for that).*
+    - Done with assignment for elevator speech. 
 
