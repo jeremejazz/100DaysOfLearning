@@ -49,3 +49,14 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 - Data Engineering with Google Cloud
     - Week 1: Create a vm instance and storage bucket
         - Run sample script to fetch data from usgs earthquake data and save to bucket for viewing. 
+
+### Day 3 (11/16/2020)
+**Today's Progress**: 
+- Data Engineering with Google Cloud
+    - Lab assignment. Create a dataset from USA names and query using BigQuery
+    - Learn about Storage Classes 
+- Machine Learning 
+    - Learning about Model representation. Having problem Linear Algebra. Need to recall highschool lessons in regards to linear algebra.
+
+### Day 4 (11/17/2020)
+TBA
