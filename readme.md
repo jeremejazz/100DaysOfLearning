@@ -11,11 +11,11 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 - Improve Your English Communication Skills 
     - Write Professional Emails in English 
     - Speak English Professionally in Person, Online, & on the Phone
-- Data Engineering with Google Cloud
-- Introduction to MongoDB
+- ~~Data Engineering with Google Cloud~~
+- ~~Introduction to MongoDB~~
 - Python for Everybody - Using Python to Access Web Data
-
-
+- Developing Applications with Google Cloud Platform Specialization
+- Django for Everybody
  
 ## Logs: 
 
@@ -69,4 +69,14 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 - **Data Engineering with Google Cloud**
     - Learn about Big Data and ML products.
     - Introduced with recommendation system as case study for machine learning that will be built on the next chapters. 
+    
+### Day 5 (11/18/2020)
+**Today's Progress**: 
+- **Django for Everybody**
+    - Enrolled in new course. 
+- **Data Engineering with Google Cloud**
+    - Done with lab exercise of migrating an existing data to Google SQL and creating a job with Google Spark ML to create a recommendation system for a user.
+    - unfortunately I had to drop course due to lack of experience in terms of data analytics. While the course discusses step by step implementation, I am having a hard time understanding how Data Analytics works. To make the most of GCP Free tier I enrolled in **Developing Applications with Google Cloud Platform Specialization** instead which I believe aligns on my current experience as an application developer
+
+
     
