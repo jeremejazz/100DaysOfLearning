@@ -78,5 +78,16 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
     - Done with lab exercise of migrating an existing data to Google SQL and creating a job with Google Spark ML to create a recommendation system for a user.
     - unfortunately I had to drop course due to lack of experience in terms of data analytics. While the course discusses step by step implementation, I am having a hard time understanding how Data Analytics works. To make the most of GCP Free tier I enrolled in **Developing Applications with Google Cloud Platform Specialization** instead which I believe aligns on my current experience as an application developer
 
+- **Developing Applications with Google Cloud Platform**
+    - Learn overview about regions, billings, and services
 
-    
+### Day 6 (11/19/2020)
+**Today's Progress**: 
+- **English (Writing professional email)**
+    - Introduction and Announcement letters
+    - Written quiz for introduction letter
+- **English (speaking)**
+    - Introduction to speaking in video conference
+- **Developing apps in GCP**
+    - Learned about IAM Roles
+    - Google Cloud resource heirarchy
