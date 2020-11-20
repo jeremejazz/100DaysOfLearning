@@ -91,3 +91,9 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 - **Developing apps in GCP**
     - Learned about IAM Roles
     - Google Cloud resource heirarchy
+
+### Day 7 (11/20/2020)
+**Today's Progress**: 
+- **Developing apps in GCP**
+    - GCP Marketplace
+    - GCP Cloud Shell
