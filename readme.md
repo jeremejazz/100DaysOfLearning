@@ -97,3 +97,8 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 - **Developing apps in GCP**
     - GCP Marketplace
     - GCP Cloud Shell
+
+### Day 8 (11/21/2020)
+**Today's Progress**:
+- **Developing apps in GCP**
+    - Deploy LAMP stack to GCP Lab Exercise.
