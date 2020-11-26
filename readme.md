@@ -102,3 +102,10 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
 **Today's Progress**:
 - **Developing apps in GCP**
     - Deploy LAMP stack to GCP Lab Exercise.
+
+### Day 9 (11/27/2020)
+**Today's Progress**:
+- **Data Science Toolbox**:
+    - Learn about connecting Gitlab to Rstudio
+- **Python**
+    - Use `socket` to learn about tcp connection. 
