@@ -109,3 +109,15 @@ I also have started a few days prior so most logs starting from Day 1 are no lon
     - Learn about connecting Gitlab to Rstudio
 - **Python**
     - Use `socket` to learn about tcp connection. 
+
+### Day 10 (12/15/2020)
+**Today's Progress**:
+- **Django**:
+    - Django configuration and installation on pythonanywhere.com 
+- **Python**:
+    - Learn basic web scraping with Beautifulsoup
+    - Learn different encoding used in python. 
+- **Data Science**:    
+    - Types of Data Science questions and experimental design.
+    - Learn about basic big data concept. (significance and development)
+
